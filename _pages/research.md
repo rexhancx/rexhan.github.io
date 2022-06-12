@@ -121,3 +121,21 @@ One Chinese core
 
 
 
+ 
+## __Skills__
+---
+### __Wet Lab__
+* __DNA:__ Genetic manipulation (KO, KI) using CRISPR/Cas system, deep sequencing, Surveyor assay, Southern blotting, isolation, purification, amplification (PCR, RPA, LAMP), cloning, digestion, ligation
+* __RNA:__ RT-PCR, RNAseq, FISH, extraction
+* __Protein:__ Western blotting (2D), PAGE-gel, prokaryotic expression, AKTA protein purification, high-pressure cell crack, Ni-NTA protein purification  
+* __Cell:__ cells culture (stem, primary), transfection (lipo, virus), FACS, IHC, cell viability assay, virus plaque assay, cryopreservation, competent cell preparation, electro-transformation
+* __Tissue:__ Chicken embryonic microinjection, mice sperm isolation, frozen section, HE staining  
+* __Animal:__  *in vivo* fluorescence imaging  
+
+### Dry Lab
+* __Biotools:__ Indels analysis, RNAseq analysis; SPSS, ImageJ, SnapGene, Mega11, Prism 8, Primer 3 Plus, Blastn, ... 
+* __Programming:__ Python, HTML5/CSS, R, C++; Ubuntu, VS Code, LaTeX, WordPress, GitHub
+* __Computer:__ Literature research, MS Office suite, Adobe Photoshop, Adobe Premiere, FCPX, SOLIDWORKS, ...  
+* __Language:__ Chinese (native), English (fluent), Japanese (undergraduate minor)  
+
+

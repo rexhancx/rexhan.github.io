@@ -8,7 +8,7 @@ author_profile: true
 ## __Biography__
 ---
 
-<img src="/images/bio.png" style="width: 75%">         
+<img src="/images/bio.png" style="width: 50%; vertical-align: middle">         
 
 
 
