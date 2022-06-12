@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## __Articles__
 ---
-1.	__High Precision and Cost-efficient Detection of CRISPR-induced Low-frequency Indels based on Amplicon Sequencing__  
+1.	__Highly-precise and Cost-efficient Detection of CRISPR-induced Low-frequency Indels based on Amplicon Sequencing__  
 __C Han__, K Xu, H Zhou, C He, J Ding, F Akinyemi, Q Chao, H Luo, H Meng  
 *BMC Genomics*, submitted  
 
@@ -117,7 +117,7 @@ H Luo, __C Han__, K Xu, C He, J Ding, H Zhou, Y Zheng, F Akinyemi, H Meng
   H Zhou, H Meng, L Yang, C He, J Ding, K Xu, Y Zheng, __C Han__, H Luo  
   *China Patent no. ZL 2019 1 0892839.3*
 
-## __Thesis__
+## __Theses__
 ---
 * __Chicken *TYR* Gene Knockout through Embryonic Injection of Adenoviral CRISPR-Cas9 Vector__  
-*Masters Thesis*, 2021  
+*Master Thesis*, 2021  
