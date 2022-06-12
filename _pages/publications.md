@@ -117,8 +117,6 @@ __*20th Chinese National Conference on Animal Genetics & Breeding*__, Guangzhou,
   H Zhou, H Meng, L Yang, C He, J Ding, K Xu, Y Zheng, __C Han__, H Luo  
   China Patent no. ZL 2019 1 0892839.3
 
-
-
 ## __Thesis__
 ---
 * __Chicken *TYR* Gene Knockout through Embryonic Injection of Adenoviral CRISPR-Cas9 Vector__  
