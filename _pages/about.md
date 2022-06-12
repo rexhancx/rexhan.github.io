@@ -3,9 +3,7 @@ layout: archive
 permalink: /
 title: ""
 author_profile: true
-redirect_from: 
-  - /bio/
-  - /bio.html
+
 ---
 ## __Biography__
 ---
