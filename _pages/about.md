@@ -3,11 +3,10 @@ layout: archive
 permalink: /
 title: ""
 author_profile: true
-
 ---
 ## __Biography__
 ---
-  
+
 <img src="/images/bio.png" align="center" width=75%> 
 <br></br>
 
