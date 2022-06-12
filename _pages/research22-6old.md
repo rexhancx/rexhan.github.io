@@ -1,11 +1,8 @@
 ---
 layout: archive
-permalink: /
 title: ""
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 ## __Current Research__  

@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Chengxiao Han"
   avatar           : "profile.png"
-  bio              : "MSc in Animal Science @ Shanghai Jiao Tong University"
+  bio              : "MSc @ Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=HjEu43QAAAAJ"
   email            : "rex_han@sjtu.edu.cn"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
