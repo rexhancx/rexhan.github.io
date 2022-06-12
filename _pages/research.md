@@ -23,8 +23,6 @@ The lack of efficient methods to generate gene-modified chicken delayed chicken 
 Nov 2017 - Jun 2018  
 Bachelor Thiesis, advisor: Prof. He Meng   
 Shanghai Collaborative Innovation Center of Agri-Seeds, SJTU   
-    - The regulatory mechanisms of chicken muscle growth and development were not clear
-    * We performed *in vivo MSTN* gene knockout on broiler leg muscle through direct injection of adenoviral Cas9 vector, and used RNA-seq to analyze
     * Large-fragment deletion of *MSTN* was detected in all KO group chicken, and the expression of *MSTN* was downregulated. Enrichment and IPA analysis revealed the interaction of *MSTN*.  
     * Reviewer commented: it is a *sound methodology* for gene function and mechanism studies in avian species  
 
@@ -33,27 +31,20 @@ Shanghai Collaborative Innovation Center of Agri-Seeds, SJTU
 Jul 2018 - Dec 2021  
 Master Thesis, advisor: Prof. He Meng   
 Shanghai Collaborative Innovation Center of Agri-Seeds, SJTU  
-    * The regulatory mechanisms of chicken melanin systhesis and accumulation were not clear
-    * We performed *in ovo TYR* gene knockout on Dongxiang black chicken through embryonic dorsal aorta injection of adenoviral Cas9 vector, and used amplicon sequencing to analyze
-    * *TYR* knockout was detected both in chicken embryos and living G0 chimera chicken blood 
-
+     * *TYR* knockout was detected both in chicken embryos and living G0 chimera chicken  
 * __High Precision and Cost-efficient Detection of CRISPR-induced Low-frequency Indels based on Amplicon Sequencing__  
 Aug 2020 - Nov 2021
 Master Thesis, advisor: Prof. He Meng  
 Shanghai Collaborative Innovation Center of Agri-Seeds, SJTU  
     * Conventional CRISPR-induced indel detection methods could no longer meet the evolving requirements of CRISPR biology
-    * We developed a highly-precise and cost-efficient method based on amplicon sequencing for analyzing CRISPR-induced mutations
-    * Our method was far more cost-efficient and precise than traditional methods and cost far less money and time. Meanwhile, it provided well-visualized results
-    * Our method could become a better choice for CRISPR-indeuced mutations analysis especially for those tight-budget and labor-shortage labs  
+    * Could become a better choice for CRISPR-indeuced low-frequency indel detection especially for those tight-budget and labor-shortage labs  
 
 
 * __Chicken *MSTN* and *TYR* Gene Knockout through Jugular Vein Direct Injection of Adenoviral CRISPR/Cas9 Vector__   
 Sep 2020 - Dec 2021, advisor: Prof. He Meng  
 Shanghai Collaborative Innovation Center of Agri-Seeds, SJTU   
-    * Previous chicken genome editing methods were not effcient and simple enough
-    * We injected adenoviral CRISPR/Cas vector into jugular vein of postnatal chicken for *MSTN* and *TYR* knockout on Liyang chicken, and used amplicon sequencing to analyze
-    * Gene knockout was detected in multiple KO group chicken tissues especially liver, spleen and chest muscle
-    * Our research provided a new method for chicken genome editing and showed several important features of it
+    * Gene knockout was detected in multiple KO group chicken tissues
+    * Provided a new method for chicken genome editing and showed several important features of it
 
 * __Liver Cancer Modeling in Mice using CRISPR/Cas System__  
 Jun 2017 – Aug 2017  
