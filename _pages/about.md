@@ -1,21 +1,31 @@
 ---
 layout: archive
-permalink: /
+permalink: /biography
 title: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /
+  - /biography/
+  - /biography.html
 ---
-## __About__  
+## __Biography__
 ---
-I am Chengxiao (Rex) Han <img src="/images/rexhanname.jpg" style="height: 25px;vertical-align: middle">. [Curriculum Vitae](https://rexhancx.github.io/files/CV_Chengxiao_Han_v3_3.pdf) (Updated Mar 2022).
+  
+<img src="/images/bio.png" align="center" width=75%> 
+<br></br>
 
-I am a PhD student at [Protein Synthesis Lab](https://www.x-mol.com/groups/panlab?lang=en) at SJTU advised by [Prof. Man Pan](https://www.x-mol.com/groups/panlab/people?lang=en).  I received my MS and BS at Animal Genetics and Breeding Lab at SJTU advised by [Prof. He Meng](https://www.agri.sjtu.edu.cn/En/Data/View/2947).  
+Chengxiao (Rex) Han <img src="/images/rexhanname.jpg" style="height: 25px;vertical-align: middle" title="photographed by Yulin Liao">
+
+I am a PhD student at [Protein Synthesis Lab](https://www.x-mol.com/groups/panlab?lang=en) at SJTU advised by [Prof. Man Pan](https://www.x-mol.com/groups/panlab/people?lang=en).   
 
 My current research focuses on mechanisms of protein ubiquitination and deubiquitination. 
 
+I received my MS (2021) and BS (2018) in Animal Science from SJTU advised by [Prof. He Meng](https://www.agri.sjtu.edu.cn/En/Data/View/2947). 
 
+[Curriculum Vitae](https://rexhancx.github.io/files/CV_Chengxiao_Han_v3_3.pdf) (Updated Mar 2022).
+
+
+<!---
 ## __News__
 ---
 * May 2022: An oral presentation at *World Poultry Science Association Congress 2022* was accepted.
@@ -34,7 +44,7 @@ My current research focuses on mechanisms of protein ubiquitination and deubiqui
   __Cumulative GPA:__ 3.56/4.0  
   __Core Courses:__ Genetics (96/100), Bioinformatics (95/100), Biostatistics (94/100), Animal Microbiology (92/100)
 
-<!---
+
 ## __Education__
 ---
 * __MS__, SJTU (Mar 2021)  
