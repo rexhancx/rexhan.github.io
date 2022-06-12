@@ -19,32 +19,28 @@ The lack of efficient methods to generate gene-modified chicken delayed chicken 
 
 <img src="/images/rexres.jpg" style="width:33%"><img src="/images/chickenemb.gif" style="width:33%" title="(c) Anna Franz, 2011"><img src="/images/chickens.jpg" style="width:33%">
 
-* __Chicken Leg Muscle *In Vivo* *MSTN* Gene Knockout  through Direct Injection of Adenoviral CRISPR-Cas9 Vector__  
-Nov 2017 - Jun 2018  
-Bachelor Thiesis, advisor: Prof. He Meng   
+
+* __High Precision and Cost-efficient Detection of CRISPR-induced Low-frequency Indels based on Amplicon Sequencing__  
+Aug 2020 - Nov 2021
+Master Thesis, advisor: Prof. He Meng  
+Shanghai Collaborative Innovation Center of Agri-Seeds, SJTU  
+
+* __Chicken *MSTN* and *TYR* Gene Knockout through Jugular Vein Direct Injection of Adenoviral CRISPR/Cas9 Vector__   
+Sep 2020 - Dec 2021, advisor: Prof. He Meng  
 Shanghai Collaborative Innovation Center of Agri-Seeds, SJTU   
-    * Large-fragment deletion of *MSTN* was detected in all KO group chicken, and the expression of *MSTN* was downregulated. Enrichment and IPA analysis revealed the interaction of *MSTN*.  
-    * Reviewer commented: it is a *sound methodology* for gene function and mechanism studies in avian species  
 
 
 * __Chicken *TYR* Gene Knockout through Dorsal Aorta Direct Injection of Adenoviral CRISPR/Cas9 Vector__   
 Jul 2018 - Dec 2021  
 Master Thesis, advisor: Prof. He Meng   
-Shanghai Collaborative Innovation Center of Agri-Seeds, SJTU  
-     * *TYR* knockout was detected both in chicken embryos and living G0 chimera chicken  
-* __High Precision and Cost-efficient Detection of CRISPR-induced Low-frequency Indels based on Amplicon Sequencing__  
-Aug 2020 - Nov 2021
-Master Thesis, advisor: Prof. He Meng  
-Shanghai Collaborative Innovation Center of Agri-Seeds, SJTU  
-    * Conventional CRISPR-induced indel detection methods could no longer meet the evolving requirements of CRISPR biology
-    * Could become a better choice for CRISPR-indeuced low-frequency indel detection especially for those tight-budget and labor-shortage labs  
-
-
-* __Chicken *MSTN* and *TYR* Gene Knockout through Jugular Vein Direct Injection of Adenoviral CRISPR/Cas9 Vector__   
-Sep 2020 - Dec 2021, advisor: Prof. He Meng  
 Shanghai Collaborative Innovation Center of Agri-Seeds, SJTU   
-    * Gene knockout was detected in multiple KO group chicken tissues
-    * Provided a new method for chicken genome editing and showed several important features of it
+ 
+* __Chicken Leg Muscle *In Vivo* *MSTN* Gene Knockout  through Direct Injection of Adenoviral CRISPR-Cas9 Vector__  
+Nov 2017 - Jun 2018  
+Bachelor Thiesis, advisor: Prof. He Meng   
+Shanghai Collaborative Innovation Center of Agri-Seeds, SJTU   
+
+__Previous Research Training__  
 
 * __Liver Cancer Modeling in Mice using CRISPR/Cas System__  
 Jun 2017 – Aug 2017  
@@ -61,7 +57,7 @@ Mar 2015 – Mar 2016
 PRP project, advisor: Prof. Gongyou Chen   
 State Key  Laboratory  of Microbial  Metabolism, SJTU  
 
-### __RESEARCH ACTIVITIES__
+### __Reseaerch Activities__
 ---
 * 2022 World Poultry Science Association Congress 2022, Paris, France
 * 2021 21st National Conference on Animal Genetics & Breeding, Beijing, China
