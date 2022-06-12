@@ -8,7 +8,7 @@ author_profile: true
 ## __Biography__
 ---
 
-<img src="/images/bio.png" style="width: 65%">  
+<img src="/images/bio.png" style="width: 60%">  
 
 __Chengxiao (Rex) Han__ <img src="/images/rexhanname.jpg" style="height: 25px;vertical-align: middle" title="photographed by Yulin Liao">  
 
