@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /miscellaneous/
+permalink: /awards/
 author_profile: true
 ---
  

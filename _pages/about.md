@@ -16,6 +16,6 @@ I am a PhD student at [Protein Synthesis Lab](https://www.x-mol.com/groups/panla
 
 My current research focuses on mechanisms of protein ubiquitination and deubiquitination. 
 
-I received my MS (2021) and BS (2018) in Animal Science from SJTU advised by Prof. [He Meng](https://www.agri.sjtu.edu.cn/En/Data/View/2947). 
+I received my MS (2021) and BS (2018) in Animal Science from SJTU advised by Prof. [He Meng](https://www.agri.sjtu.edu.cn/En/Data/View/2947). I served as an officer at Institute of Translational Medicine / Special Construction Office, SJTU from Jan 2022 to Aug 2022.
 
 [Curriculum Vitae](https://rexhancx.github.io/files/CV_Chengxiao_Han_v3_3.pdf) (Updated Mar 2022).

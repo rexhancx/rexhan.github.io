@@ -6,14 +6,13 @@ author_profile: true
 ---
 ## __Articles__
 ---
-[Google Scholar Page](https://scholar.google.com/citations?user=HjEu43QAAAAJ)
+1.	__High Precision and Cost-efficient Detection of CRISPR-induced Low-frequency Indels based on Amplicon Sequencing__  
+__C Han__, K Xu, H Zhou, C He, J Ding, F Akinyemi, Q Chao, H Luo, H Meng  
+__*BMC Genomics*__, submitted  
+
 1. __Effective *MSTN* Gene Knockout by AdV-Delivered CRISPR/Cas9 in Postnatal Chick Leg Muscle__  
     K Xu*, __C Han* (co-first)__, H Zhou, J Ding, Z Xu, L Yang, C He, F Akinyemi, Y Zheng, C Qin, H Luo, H Meng  
   __*International Journal of Molecular Science*__, 2020 [[Link]](https://www.mdpi.com/1422-0067/21/7/2584)  
-
-1.	__Cost-effective and Ultra-sensitive Detection of CRISPR-induced Indels based on Amplicon Sequencing__  
-__C Han__, K Xu, H Zhou, C He, J Ding, F Akinyemi, Q Chao, H Luo, H Meng  
-In progress  
 
 1. __Transcriptomic Analysis of *MSTN* Knockout in the Early Differentiation of Chicken Fetal Myoblasts__  
 K Xu, H Zhou, __C Han__, Z Xu, J Ding, J Zhu, C Qin, H Luo, K Chen, J Liu, We Zhu, H Meng  
@@ -67,8 +66,7 @@ __*Reproductive Toxicology*__, 2018  [[Link]](https://linkinghub.elsevier.com/re
 K Huang, __C Han__, Q Tan, L Cai, W Ma, L Zou, G Chen  
 __*Journal of Shanghai Jiao Tong University (Agricultural Science)*__, 2018  
 
-
-## __Conference Abstracts__
+## __Conference Presentations__
 ---
 1. __Efficient and Accurate Identification of CRISPR-induced Mutations Based on Amplicon Sequencing__   
 __C Han__, K Xu, H Zhou, C Qin, H Luo, J Ding, H Meng   
@@ -76,14 +74,18 @@ __*World Poultry Science Association Congress 2022*__, Paris, France, 2022
 1. __Efficient and Accurate Detection of CRISPR-induced Mutations Based on Amplicon Sequencing__  
  __C Han__, K Xu, H Zhou, C Qin, H Luo, J Ding, H Meng  
  __*21st National Conference on Animal Genetics & Breeding*__, Beijing, China, 2021 (__*Oral Presentation*__) [[picture]](/images/OPat21NAGB.jpg)
+1. __*MSTN* Gene-editing Vector Injection into Chicken Embryo Dorsal Aorta and Tissue Knockout Efficiency Analysis__  
+K Xu, __C Han__, H Zhou, C Qin, H Luo, J Liu, W Zhu, C He, J Ding, J Zhu, F Akinyemi, K Chen, H Meng  
+__*20th National Poultry Science Conference*__, Harbin, China, 2021 (__*Oral Presentation, Excellent*__)   
+
+
+## __Abstracts__
+---
 
 1. __A Low-cost and Practical Workflow based on Amplicon Sequencing for Analyzing CRISPR-induced Mutations__  
  __C Han__, K Xu, H Zhou, C Qin, H Luo, J Ding, H Meng  
 __*16th Biology Youth Forum (Shanghai Society of Cell Biology)*__, Shanghai, China, 2021  
 
-1. __*MSTN* Gene-editing Vector Injection into Chicken Embryo Dorsal Aorta and Tissue Knockout Efficiency Analysis__  
-K Xu, __C Han__, H Zhou, C Qin, H Luo, J Liu, W Zhu, C He, J Ding, J Zhu, F Akinyemi, K Chen, H Meng  
-__*20th National Poultry Science Conference*__, Harbin, China, 2021 (__*Oral Presentation, Excellent*__)   
 
 1. __*MSTN* Gene Knockout Changes the Transcriptome Profile in Chick Leg Muscle__  
   K Xu, __C Han__, H Zhou, J Ding, Z Xu, L Yang, C He, F Akinyemi, Y Zheng, C Qin, H Luo, H Meng  
@@ -103,8 +105,21 @@ __*20th Chinese National Conference on Animal Genetics & Breeding*__, Guangzhou,
 H Luo, __C Han__, K Xu, C He, J Ding, H Zhou, Y Zheng, F Akinyemi, H Meng  
 __*20th Chinese National Conference on Animal Genetics & Breeding*__, Guangzhou, China, 2019  
 
+
+
 ## __Patent__
 ---
-* __A Fast and Accurate Workflow for Gene Editing Efficiency and Pattern Detection and Its Application__  
+1. __A Fast and Accurate Workflow for Gene Editing Efficiency and Pattern Detection and Its Application__  
   __C Han__, K Xu, H Zhou, C He, J Ding, C Qin, H Luo, H Meng  
-  China patent no. __*CN112322714A*__
+  China patent no. CN 112322714 A, filed
+
+1. __Intestinal Microbiological Markers Highly associated with Anorexia Behavior in Low-weight Chickens__  
+  H Zhou, H Meng, L Yang, C He, J Ding, K Xu, Y Zheng, __C Han__, H Luo  
+  China Patent no. ZL 2019 1 0892839.3
+
+
+
+## __Masters Thesis__
+---
+Chicken *TYR* Gene Knockout through Embryonic Injection of Adenoviral CRISPR-Cas9 Vector
+__*Shanghai Jiao Tong Universiity*__, Shanghai, China , 2021 
