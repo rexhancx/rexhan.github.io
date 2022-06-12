@@ -70,7 +70,7 @@ K Huang, __C Han__, Q Tan, L Cai, W Ma, L Zou, G Chen
 ---
 1. __Efficient and Accurate Identification of CRISPR-induced Mutations Based on Amplicon Sequencing__   
 __C Han__, K Xu, H Zhou, C Qin, H Luo, J Ding, H Meng   
-*World Poultry Science Association Congress 2022*, Paris, France, 2022  
+*World Poultry Science Association Congress 2022*, Paris, France, 2022 (Accepted)  
 1. __Efficient and Accurate Detection of CRISPR-induced Mutations Based on Amplicon Sequencing__  
  __C Han__, K Xu, H Zhou, C Qin, H Luo, J Ding, H Meng  
  *21st National Conference on Animal Genetics & Breeding*, Beijing, China, 2021  [[Photo]](/images/OPat21NAGB.jpg)
