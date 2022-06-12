@@ -16,20 +16,16 @@ I am a PhD student at [Protein Synthesis Lab](https://www.x-mol.com/groups/panla
 My current research focuses on mechanisms of protein ubiquitination and deubiquitination. 
 
 
-
-
-
 ## __News__
 ---
-* June 2022: Join the Protein Synthesis Lab at SJTU as a PhD student.
 * May 2022: An oral presentation at *World Poultry Science Association Congress 2022* was accepted.
 * Oct 2021: An oral presentation  at *21st National Conference on Animal Genetics & Breeding* was [delivered](/images/OPat21NAGB.jpg).
 
 
 
-## __Education__
+## __Experience__
 ---
-* __MS in Animal Science__, Shanghai Jiao Tong University, Shanghai, China (Mar 2021)  
+* __MS__, SJTU (Mar 2021)  
   __Cumulative GPA:__ 3.73/4.0, __Outstanding Graduate__  
   __Advisor:__ Prof. [He Meng](http://www.agri.sjtu.edu.cn/En/Data/View/2947)  
   __Core Courses:__ Cell Biology (A+), Animal Genomics (A), Quantitative Genetics (A), Molecular Immunology (A)
@@ -37,6 +33,19 @@ My current research focuses on mechanisms of protein ubiquitination and deubiqui
 * __BS in Animal Science__, Shanghai Jiao Tong University, Shanghai, China (Jun 2018)  
   __Cumulative GPA:__ 3.56/4.0  
   __Core Courses:__ Genetics (96/100), Bioinformatics (95/100), Biostatistics (94/100), Animal Microbiology (92/100)
+
+<!---
+## __Education__
+---
+* __MS__, SJTU (Mar 2021)  
+  __Cumulative GPA:__ 3.73/4.0, __Outstanding Graduate__  
+  __Advisor:__ Prof. [He Meng](http://www.agri.sjtu.edu.cn/En/Data/View/2947)  
+  __Core Courses:__ Cell Biology (A+), Animal Genomics (A), Quantitative Genetics (A), Molecular Immunology (A)
+  
+* __BS in Animal Science__, Shanghai Jiao Tong University, Shanghai, China (Jun 2018)  
+  __Cumulative GPA:__ 3.56/4.0  
+  __Core Courses:__ Genetics (96/100), Bioinformatics (95/100), Biostatistics (94/100), Animal Microbiology (92/100)
+
 
 ## __Honors, Awards and Memberships__  
 
@@ -49,3 +58,4 @@ My current research focuses on mechanisms of protein ubiquitination and deubiqui
 - 2016 Merit Student of SJTU
 - 2015 Excellent League Member of SJTU
 
+---->
