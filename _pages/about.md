@@ -8,10 +8,9 @@ author_profile: true
 ## __Biography__
 ---
 
-<img src="/images/bio.png" width=75%> 
-<br>
+<img src="/images/bio.png" width=75%> </img>  
 
-__Chengxiao (Rex) Han__ <img src="/images/rexhanname.jpg" style="height: 25px;vertical-align: middle" title="photographed by Yulin Liao">
+__Chengxiao (Rex) Han__ <img src="/images/rexhanname.jpg" style="height: 25px;vertical-align: middle" title="photographed by Yulin Liao"></img>
 
 I am a PhD student at [Protein Synthesis Lab](https://www.x-mol.com/groups/panlab?lang=en) at SJTU advised by Dr. [Man Pan](https://www.x-mol.com/groups/panlab/people?lang=en).   
 

@@ -4,15 +4,8 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-## __About__  
----
-I am Chengxiao (Rex) Han <img src="/images/rexhanname.jpg" style="height: 25px;vertical-align: middle">. [Curriculum Vitae](https://rexhancx.github.io/files/CV_Chengxiao_Han_v3_3.pdf) (Updated Mar 2022).
 
-I am a PhD student at [Protein Synthesis Lab](https://www.x-mol.com/groups/panlab?lang=en) at SJTU advised by [Prof. Man Pan](https://www.x-mol.com/groups/panlab/people?lang=en).  I received my MS and BS at Animal Genetics and Breeding Lab at SJTU advised by [Prof. He Meng](https://www.agri.sjtu.edu.cn/En/Data/View/2947).  
-
-My current research focuses on mechanisms of protein ubiquitination and deubiquitination. 
-
-## __Current Research__  
+## __Research__  
 ---
 My current research is advised by A.P. [Man Pan](https://scholar.google.com/citations?user=4vd9yi0AAAAJ) at Institute of Translational Medicine, SJTU. 
 

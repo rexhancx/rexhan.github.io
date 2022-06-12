@@ -1,12 +1,21 @@
 # main links links
 main:
+  - title: "Biography"
+    url: /    
+  
   - title: "Research"
     url: /research/    
 
   - title: "Publications"
     url: /publications/    
     
-  - title: "Miscellaneous"
-    url: /miscellaneous/
+  - title: "Awards"
+    url: /awards/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Miscellaneous" 
+    url: /Miscellaneous/
 
     
