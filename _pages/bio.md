@@ -1,12 +1,11 @@
 ---
 layout: archive
-permalink: /biography
+permalink: /
 title: ""
 author_profile: true
 redirect_from: 
-  - /
-  - /biography/
-  - /biography.html
+  - /bio/
+  - /bio.html
 ---
 ## __Biography__
 ---
