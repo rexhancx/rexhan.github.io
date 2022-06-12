@@ -5,14 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-## __Research__  
+## __Current Research__  
 ---
-My current research is advised by A.P. [Man Pan](https://scholar.google.com/citations?user=4vd9yi0AAAAJ) at Institute of Translational Medicine, SJTU. 
-
-The direction is protein chemical synthesis and structure analysis.    
+My current research focuses on mechanisms of protein ubiquitination and deubiquitination.
 
 
-## __Thesis Research__  
+## __Previous Research__  
 ---
 My thesis research is advised by Prof. [He Meng](http://www.agri.sjtu.edu.cn/En/Data/View/2947) at Shanghai Key Laboratory of Veterinary Biotechnology, SJTU.  
 
@@ -77,10 +75,6 @@ One SCI
 
 <img src="/images/cefmstn.jpg">
 
-## __Previous Research__
----
-Previous research focused on the cultivation of fundamental biological research skills and the exploration of several biology fields mainly including bacteria-host gene interaction, mammal reproductive toxicology and mammal genome editing using CRISPR-Cas system.  
-
 ### __Intern__  
 __Liver Cancer Modeling in Mice using CRISPR/Cas System__  
 Advisor: A.P. Shun Li, *Jun 2017 – Aug 2017*  
@@ -119,8 +113,6 @@ One Chinese core
 * 2019 14th Shanghai Society of Cell Biology Youth Forum, Shanghai China
 * 2018 National Gene Editing Conference, Beijing, China
 
-
-
  
 ## __Skills__
 ---
@@ -135,7 +127,7 @@ One Chinese core
 ### Dry Lab
 * __Biotools:__ Indels analysis, RNAseq analysis; SPSS, ImageJ, SnapGene, Mega11, Prism 8, Primer 3 Plus, Blastn, ... 
 * __Programming:__ Python, HTML5/CSS, R, C++; Ubuntu, VS Code, LaTeX, WordPress, GitHub
-* __Computer:__ Literature research, MS Office suite, Adobe Photoshop, Adobe Premiere, FCPX, SOLIDWORKS, ...  
-* __Language:__ Chinese (native), English (fluent), Japanese (undergraduate minor)  
+* __Computer:__ Literature research, MS Office, Adobe Photoshop, Adobe Premiere, FCPX, SOLIDWORKS, ...  
+* __Language:__ Chinese (native), English (fluent) 
 
 

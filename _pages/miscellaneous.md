@@ -23,7 +23,14 @@ Student Union, School of Agriculture and Biology, Shanghai Jiao Tong University,
 SJTU DigitCon Technology Co., Ltd, *2016-2018*
 * __Anniversary Outstanding Volunteer__  
 Shanghai Zoo, *2015-2016*
-     
+
+## __Skills__
+---
+* __Programming:__ Python, HTML5/CSS, R, C++; Ubuntu, VS Code, LaTeX, WordPress, GitHub
+* __Computer:__ Literature research, MS Office, Adobe Photoshop, Adobe Premiere, FCPX, SOLIDWORKS, ...  
+* __Language:__ Chinese (native), English (fluent) 
+
+
 ## __Self Assessment__
 ---
 Pragmatic / Self-motivated / Resilient / Cooperative / Perceptive
