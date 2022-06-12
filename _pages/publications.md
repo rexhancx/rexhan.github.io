@@ -119,7 +119,7 @@ __*20th Chinese National Conference on Animal Genetics & Breeding*__, Guangzhou,
 
 
 
-## __Masters Thesis__
+## __Thesis__
 ---
-Chicken *TYR* Gene Knockout through Embryonic Injection of Adenoviral CRISPR-Cas9 Vector
-__*Shanghai Jiao Tong Universiity*__, Shanghai, China , 2021 
+* __Chicken *TYR* Gene Knockout through Embryonic Injection of Adenoviral CRISPR-Cas9 Vector__  
+__*Masters Thesis*__, 2021  
