@@ -12,7 +12,7 @@ author_profile: true
 
 __Chengxiao (Rex) Han__ <img src="/images/rexhanname.jpg" style="height: 25px;vertical-align: middle" title="photographed by Yulin Liao">  
 
-I am a PhD student at [Protein Synthesis Lab](https://www.x-mol.com/groups/panlab?lang=en) at SJTU advised by Dr. [Man Pan](https://www.x-mol.com/groups/panlab/people?lang=en).   
+I am a doctoral student at [Protein Synthesis Lab](https://www.x-mol.com/groups/panlab?lang=en) at SJTU advised by Dr. [Man Pan](https://www.x-mol.com/groups/panlab/people?lang=en).   
 
 My current research focuses on mechanisms of protein ubiquitination and deubiquitination. 
 
