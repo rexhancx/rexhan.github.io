@@ -13,11 +13,11 @@ My current research focuses on mechanisms of protein ubiquitination and deubiqui
 ## __Previous Research__  
 ---
 
-The direction is animal genome engineering. Our final goal is to figure out the function and mechanism of several important genes related to the production traits, apparent traits, or disease-resistant traits of chicken, such as *MSTN*, *TYR*, *DMRT1*, and *HEMGN*, and to genetically improve the traits of chicken.  
+Our final goal is to figure out the function and mechanism of important genes related to those  production traits, apparent traits, or disease-resistant traits of chicken, such as *MSTN*, *TYR*, *DMRT1*, and *HEMGN*, and to genetically improve the traits of chicken.  
 
-The lack of efficient methods to generate gene-modified chicken delayed chicken gene expression and function research, till CRISPR/Cas genome editing system casts light into this field. My recent research is chicken genome editing using adenoviral CRISPR/Cas vector. I focus on *MSTN* and *TYR* genes related to muscle development and melanin synthesis respectively. Moreover, I developed an efficient and accurate method based on amplicon sequencing for analyzing CRISPR-induced mutations.  
+The lack of efficient methods to generate gene-modified chicken delayed chicken gene expression and function research, till CRISPR/Cas genome editing system casts light into this field. My research focused on chicken genome editing using adenoviral CRISPR/Cas vector. Moreover, I developed an efficient and accurate method based on amplicon sequencing for analyzing CRISPR-induced mutations.  
 
-<img src="/images/rexres.jpg" style="width:33%"><img src="/images/chickenemb.gif" style="width:33%" title="(c)Anna Franz, 2011"><img src="/images/chickens.jpg" style="width:33%">
+<img src="/images/rexres.jpg" style="width:33%"><img src="/images/chickenemb.gif" style="width:33%" title="(c) Anna Franz, 2011"><img src="/images/chickens.jpg" style="width:33%">
 
 * __Chicken Leg Muscle *In Vivo* *MSTN* Gene Knockout  through Direct Injection of Adenoviral CRISPR-Cas9 Vector__  
 Nov 2017 - Jun 2018  
