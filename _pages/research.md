@@ -12,14 +12,6 @@ My current research focuses on mechanisms of protein ubiquitination and deubiqui
 
 ## __Previous Research__  
 ---
-
-Our final goal is to figure out the function and mechanism of important genes related to those  production traits, apparent traits, or disease-resistant traits of chicken, such as *MSTN*, *TYR*, *DMRT1*, and *HEMGN*, and to genetically improve the traits of chicken.  
-
-My research focused on chicken genome editing using adenoviral CRISPR/Cas vector. Moreover, I developed an efficient and accurate method based on amplicon sequencing for detecting CRISPR-induced indels.  
-
-<img src="/images/rexres.jpg" style="width:33%"><img src="/images/chickenemb.gif" style="width:33%" title="(c) Anna Franz, 2011"><img src="/images/chickens.jpg" style="width:33%">
-
-
 * __High Precision and Cost-efficient Detection of CRISPR-induced Low-frequency Indels based on Amplicon Sequencing__  
 Aug 2020 - Nov 2021
 Master Thesis, advisor: Prof. He Meng  
