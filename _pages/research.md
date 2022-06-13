@@ -15,7 +15,7 @@ My current research focuses on mechanisms of protein ubiquitination and deubiqui
 
 Our final goal is to figure out the function and mechanism of important genes related to those  production traits, apparent traits, or disease-resistant traits of chicken, such as *MSTN*, *TYR*, *DMRT1*, and *HEMGN*, and to genetically improve the traits of chicken.  
 
-The lack of efficient methods to generate gene-modified chicken delayed chicken gene expression and function research, till CRISPR/Cas genome editing system casts light into this field. My research focused on chicken genome editing using adenoviral CRISPR/Cas vector. Moreover, I developed an efficient and accurate method based on amplicon sequencing for analyzing CRISPR-induced mutations.  
+My research focused on chicken genome editing using adenoviral CRISPR/Cas vector. Moreover, I developed an efficient and accurate method based on amplicon sequencing for detecting CRISPR-induced indels.  
 
 <img src="/images/rexres.jpg" style="width:33%"><img src="/images/chickenemb.gif" style="width:33%" title="(c) Anna Franz, 2011"><img src="/images/chickens.jpg" style="width:33%">
 
@@ -57,7 +57,7 @@ Mar 2015 – Mar 2016
 PRP project, advisor: Prof. Gongyou Chen   
 State Key  Laboratory  of Microbial  Metabolism, SJTU  
 
-### __Reseaerch Activities__
+### __Research Activities__
 ---
 * 2022 World Poultry Science Association Congress 2022, Paris, France
 * 2021 21st National Conference on Animal Genetics & Breeding, Beijing, China
@@ -70,7 +70,7 @@ State Key  Laboratory  of Microbial  Metabolism, SJTU
 * 2018 National Gene Editing Conference, Beijing, China
 
  
-## __Wet-Labs__
+## __Wet-labs__
 ---
 * __DNA:__ Genetic manipulation (KO, KI) using CRISPR/Cas system, deep sequencing, Surveyor assay, Southern blotting, isolation, purification, amplification (PCR, RPA, LAMP), cloning, digestion, ligation
 * __RNA:__ RT-PCR, RNAseq, FISH, extraction
