@@ -30,6 +30,9 @@ H Zhou*, L Yang*, J Ding, R Dai, C He, K Xu, L Luo, L Xiao, Y Zheng, __C Han__, 
 J Ding, H Zhou, L Luo, L Xiao, K Yang, Y Zheng, K Xu, C He, __C Han__, H Luo, C Qin, F Akinyemi, C Gu, Z Zhou, Q Huang, H Meng  
 *msystems*, 2021 [[Link]](https://journals.asm.org/doi/10.1128/msystems.01192-20)  
 
+1. __Dynamics of small non-coding RNA profiles and the intestinal microbiome of high and low weight chickens__   
+*Frontiers in Microbiology*,2022 (Accepted)  
+
 1. __The Gut Microbiota of Pheasant Lineages Reflects Their Host Genetic Variation__  
 J Ding, T Jiang, H Zhou, L Yang, C He, K Xu, F Akinyemi, __C Han__, H Luo, C Qin, H Meng  
 *Frontiers in Genetics*, 2021 [[Link]](https://www.frontiersin.org/articles/10.3389/fgene.2020.00859/full)
@@ -107,7 +110,7 @@ H Luo, __C Han__, K Xu, C He, J Ding, H Zhou, Y Zheng, F Akinyemi, H Meng
 
 
 
-## __Patent__
+## __Patents__
 ---
 1. __A Fast and Accurate Workflow for Gene Editing Efficiency and Pattern Detection and Its Application__  
   __C Han__, K Xu, H Zhou, C He, J Ding, C Qin, H Luo, H Meng  
