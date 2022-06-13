@@ -57,7 +57,7 @@ Mar 2015 – Mar 2016
 PRP project, advisor: Prof. Gongyou Chen   
 State Key  Laboratory  of Microbial  Metabolism, SJTU  
 
-### __Research Activities__
+## __Research Activities__
 ---
 * 2022 World Poultry Science Association Congress 2022, Paris, France
 * 2021 21st National Conference on Animal Genetics & Breeding, Beijing, China
