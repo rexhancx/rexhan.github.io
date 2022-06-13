@@ -12,6 +12,8 @@ My current research focuses on mechanisms of protein ubiquitination and deubiqui
 
 ## __Previous Research__  
 ---
+__Thesis Research__  
+
 * __High Precision and Cost-efficient Detection of CRISPR-induced Low-frequency Indels based on Amplicon Sequencing__  
 Aug 2020 - Nov 2021
 Master Thesis, advisor: Prof. He Meng  
